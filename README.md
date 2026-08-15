@@ -1,1 +1,1 @@
-#This is a very simple mini vanilla JavaScript project.
+# This is a very simple mini vanilla JavaScript project.
